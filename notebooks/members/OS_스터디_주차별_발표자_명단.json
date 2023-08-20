@@ -1,0 +1,23 @@
+{
+    "members": ["성록", "예은", "지환", "태양", "형길"],
+    "weekly_list": [
+        {
+            "week": "1주차",
+            "date": "2023-08-25",
+            "presentation_list": [
+                {
+                    "presenter": "성록",
+                    "chapter": "Chapter 01. 컴퓨터 구조 시작하기"
+                },
+                {
+                    "presenter": "예은",
+                    "chapter": "Chapter 02. 데이터"
+                },
+                {
+                    "presenter": "지환",
+                    "chapter": "Chapter 03. 명령어"
+                }
+            ]
+        }
+    ]
+}
